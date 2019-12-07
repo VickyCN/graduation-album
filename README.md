@@ -55,4 +55,4 @@
 - [原型文档下载区：] （https://github.com/VickyCN/graduation-album）
 -毕业纪念册原型架构图
 
-！[原型界面的架构图]（https://images.gitee.com/uploads/images/2019/1207/124745_9c1f907a_1648228.jpeg“毕业纪念册架构图.JPG”）架构图
+![原型界面的架构图]（https://images.gitee.com/uploads/images/2019/1207/124745_9c1f907a_1648228.jpeg“毕业纪念册架构图.JPG”）架构图
