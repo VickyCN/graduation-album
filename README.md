@@ -60,6 +60,7 @@
 ## 原型：
 - [交互及界面设计：（HTML文档](http://nfunm026.gitee.io/graduation-album)）
 - [原型文档下载区 ：](https://github.com/VickyCN/graduation-album)
+
 - 原型界面架构图
 
 ![原型界面的架构图](https://images.gitee.com/uploads/images/2019/1207/124745_9c1f907a_1648228.jpeg "毕业纪念册架构图.JPG")
@@ -69,4 +70,21 @@
 ![功能结构图](https://images.gitee.com/uploads/images/2019/1207/171528_2ca1c5ce_1648228.jpeg "功能结构图.JPG")
 
 - 信息结构图
+
 ![信息结构图](https://images.gitee.com/uploads/images/2019/1207/171552_adb48aba_1648228.jpeg "信息结构图.JPG")
+
+- 静态地图代码输入
+
+![静态地图代码](https://images.gitee.com/uploads/images/2019/1207/195129_802c7da5_1648228.jpeg "静态地图 代码.JPG")
+
+- 输出
+
+![静态地图](https://images.gitee.com/uploads/images/2019/1207/195159_d20cad4d_1648228.jpeg "静态地图.JPG")
+
+- 路径规划代码输入
+
+![路径规划代码](https://images.gitee.com/uploads/images/2019/1207/195228_87f6b27f_1648228.jpeg "路径规划 代码.JPG")
+
+- 路径规划结果输出（部分截图）
+
+![路径规划结果](https://images.gitee.com/uploads/images/2019/1207/195323_8249f087_1648228.jpeg "路径规划 结果.JPG")
