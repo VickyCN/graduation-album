@@ -53,4 +53,13 @@
 ## 原型：
 - [交互及界面设计：（HTML文档](http://nfunm026.gitee.io/graduation-album)）
 - [原型文档下载区 ：](https://github.com/VickyCN/graduation-album)
-- ![原型界面的架构图](https://images.gitee.com/uploads/images/2019/1207/124745_9c1f907a_1648228.jpeg "毕业纪念册架构图.JPG")
+- 原型界面架构图
+
+![原型界面的架构图](https://images.gitee.com/uploads/images/2019/1207/124745_9c1f907a_1648228.jpeg "毕业纪念册架构图.JPG")
+
+- 功能结构图
+
+![功能结构图](https://images.gitee.com/uploads/images/2019/1207/171528_2ca1c5ce_1648228.jpeg "功能结构图.JPG")
+
+- 信息结构图
+![信息结构图](https://images.gitee.com/uploads/images/2019/1207/171552_adb48aba_1648228.jpeg "信息结构图.JPG")
